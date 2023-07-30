@@ -44,7 +44,7 @@ Next, download the latest LavaLink.jar file from the LavaLink GitHub repository.
 bash
 
 ```bash
-wget https://github.com/lavalink-devs/Lavalink/releases/download/3.7.7/Lavalink.jar
+wget [https://github.com/lavalink-devs/Lavalink/releases/download/3.7.7/Lavalink.jar](https://github.com/DFanso/lavalink-server/blob/main/Lavalink.jar)
 ```
 
 (Replace "3.x" with the current version number. Check the LavaLink repository for the latest version.)
