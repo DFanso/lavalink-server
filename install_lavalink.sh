@@ -14,7 +14,7 @@ echo "Java version installed: $java_version"
 
 # Download LavaLink.jar
 echo "Downloading LavaLink.jar..."
-wget https://github.com/DFanso/lavalink-server/blob/main/Lavalink.jar -O /opt/Lavalink.jar
+wget https://github.com/Cog-Creators/Lavalink-Jars/releases/download/3.7.11%2Bred.3/Lavalink.jar -O /opt/Lavalink.jar
 
 # Create LavaLink configuration file
 echo "Creating application.yml..."

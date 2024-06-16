@@ -54,7 +54,7 @@ java -version
 Download the latest LavaLink.jar file from the LavaLink GitHub repository:
 
 ```bash
-wget https://github.com/DFanso/lavalink-server/blob/main/Lavalink.jar
+wget https://github.com/Cog-Creators/Lavalink-Jars/releases/download/3.7.11%2Bred.3/Lavalink.jar
 ```
 
 #### Step 4: Create a LavaLink Configuration File
