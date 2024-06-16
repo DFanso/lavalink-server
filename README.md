@@ -4,6 +4,26 @@
 
 This guide will help you install the LavaLink server on an Ubuntu system. LavaLink is a Java application, so you'll need to have Java installed on your system.
 
+### How to Use the Script
+
+1. Save the script to a file, for example `install_lavalink.sh`.
+2. Make the script executable:
+    
+    ```bash
+    chmod +x install_lavalink.sh
+    
+    ```
+    
+3. Run the script with `sudo`:
+    
+    ```bash
+    sudo ./install_lavalink.sh
+    
+    ```
+    
+
+This script will update your system, install Java, download the LavaLink JAR file, create the necessary configuration files, set up the systemd service, and start the LavaLink server. Make sure to replace `"dfanso"` in the configuration file with a secure password of your choice.
+
 ### Step-by-Step Guide
 
 #### Step 1: Update Your System
